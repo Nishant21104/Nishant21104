@@ -1,6 +1,6 @@
 # Hi, I'm Nishant Jha 👋
 
-ASP.NET Developer passionate about building secure and scalable web applications.
+ASP.NET Developer focused on building secure, scalable, and production-ready web applications.
 
 ## 🚀 Tech Stack
 - ASP.NET Web Forms
@@ -9,7 +9,8 @@ ASP.NET Developer passionate about building secure and scalable web applications
 - HTML, CSS, JavaScript
 
 ## 📌 Featured Project
-- HHHS – Charity Donation Platform (Secure donation system with payment integration and dashboard tracking)
+-[HHHS – Charity Donation Platform](https://github.com/Nishant21104/HHHS)  
+Secure donation system with Razorpay (Test Mode) payment integration and dashboard tracking.
 
 ## 🎯 Currently Learning
 - ASP.NET Core
