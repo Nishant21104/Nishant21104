@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Nishant Jha 👋
 
-<!--
-**Nishant21104/Nishant21104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ASP.NET Developer passionate about building secure and scalable web applications.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- ASP.NET Web Forms
+- C#
+- SQL Server
+- HTML, CSS, JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Project
+- HHHS – Charity Donation Platform (Secure donation system with payment integration and dashboard tracking)
+
+## 🎯 Currently Learning
+- ASP.NET Core
+- React.js
+- Data Structures & Algorithms
